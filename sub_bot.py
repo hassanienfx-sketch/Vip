@@ -4,7 +4,7 @@ import os
 from datetime import datetime, timedelta, timezone
 import time
 
-TELEGRAM_TOKEN = "ضع_توكن_البوت_الجديد_هنا"
+TELEGRAM_TOKEN = "8730145684:AAH29y9Y3ERZ3XSnr0LbaTehYB88cBrPUs4"
 ADMIN_ID = "8553520344"
 DB_FILE = "subscribers.json"
 
